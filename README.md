@@ -8,11 +8,11 @@ Here is how the design look like for desktop and mobile (files are stored under 
 
 ### Desktop
 
-![ProductListDesktop](./docs/ProductList-Desktop.png)
+![ProductListDesktop](./public/images/docs/ProductList-Desktop.png)
 
 ### Mobile
 
-![ProductListDesktop](./docs/ProductList-Mobile.png)
+![ProductListDesktop](./public/images/docs/ProductList-Mobile.png)
 
 The data required to render the design is under `public/api/cars.json` folder. You need to fetch the data and render it in the browser. The data looks like this:
 
