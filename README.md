@@ -4,7 +4,7 @@ O teste existia um JSON com os dados dos veiculos e foi dada as seguintes instru
 
 
 The data required to render the design is under public/api/cars.json folder. You need to fetch the data and render it in the browser. The data looks like this:
-´´´´
+
 [
   {
     "id": "xc90-recharge",
@@ -14,7 +14,6 @@ The data required to render the design is under public/api/cars.json folder. You
     "imageUrl": "/images/xc90_recharge.jpg"
   }
 ]
-´´´´
 The product owner is telling you that you can generate the links to the learn and shop pages of each car by concatating the id of the car to the learn (/learn/) and shop (/shop/) urls.
 
 Two extra SVG icons are also provided by our designer which are stored under docs folder.
