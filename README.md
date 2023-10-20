@@ -1,6 +1,6 @@
-# Teste para Vaga de Front-End da empresa VOLVO, foi disponibilizados as informações abaixo para realização do teste.
-# no dia 25 irei subir o deploy ainda quero fazer algumas alterações mais pelo que foi exigido esta completo
-# caso queira baixar e brincar um pouco ( npm run dev )
+ Teste para Vaga de Front-End da empresa VOLVO, foi disponibilizados as informações abaixo para realização do teste.
+ no dia 25 irei subir o deploy ainda quero fazer algumas alterações mais pelo que foi exigido esta completo
+ caso queira baixar e brincar um pouco ( npm run dev )
 
 
 
