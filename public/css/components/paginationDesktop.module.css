@@ -2,6 +2,19 @@
     display: flex;
     width: 100%;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: center;
     gap: 8px;
+}
+
+
+@media (max-width: 768px) {
+    .btnWrapper{
+        display: none;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+     
+    }
+    
 }
